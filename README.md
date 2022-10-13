@@ -1,6 +1,7 @@
 # Setting pdf viewer path
 
 ## setting pdf viewer path
+Need to install [perl](https://www.perl.org/get.html)
 let g:tex_flavor = 'latex'  
 "let g:vimtex_compiler_method='pdflatexmk'  
 
